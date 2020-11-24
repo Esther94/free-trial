@@ -5,8 +5,8 @@
 }
 
 .background {
-background-image: url(UI.jpg);
-margin: 40px;
+    background-image: url(UI.jpg);
+    margin: 40px;
 }
 
 .parent{
@@ -47,11 +47,11 @@ margin: 40px;
     }
 
     .blk{
-display: block;
-width: 95%;
-border-radius: 10px;
-margin-bottom: 30px;
-padding: 10px;
+    display: block;
+    width: 95%;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    padding: 10px;
 }
 
 .cond{

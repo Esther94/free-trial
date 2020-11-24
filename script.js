@@ -1,6 +1,6 @@
 function signUp() {
     confirm('Are you sure you want to submit this form?');
-         let user = {};
+    let user = {};
    user.name;
  }
 
@@ -20,7 +20,7 @@ function submitInfo(){
     console. log('Email:' + email);
     console. log('password:' + password);
 
-    if (firstName ==''|| lastName == '' || email =='' || password ==''){
+   if (firstName ==''|| lastName == '' || email =='' || password ==''){
         alert('Input First Name');
  }else{  
   alert('form has been submitted');
