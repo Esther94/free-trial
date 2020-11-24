@@ -3,7 +3,7 @@ this is a classwork on putting your detail and getting a prompt (an alert) it is
 
 ## 
 # Image
-![welcome interface.]() "This is the free-trial outlook")
+![welcome interface.](images/Capture.JPG) "This is the free-trial outlook")
 
 # Built With
 * HTML
