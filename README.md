@@ -28,7 +28,7 @@ this is a classwork on putting your detail and getting a prompt (an alert) it is
 * https://twitter.com/hub_mic
 * https://www.linkedin.com/company/michub/
 
-# Live Demo ()
+# Live Demo (https://raw.githack.com/Esther94/free-trial/main/free trial.html)
 
 # 🤝 Contributions
 * This project is open to your comments and contributions.
