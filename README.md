@@ -8,7 +8,7 @@ this is a classwork on putting your detail and getting a prompt (an alert) it is
 # Built With
 * HTML
 * CSS
-JavaScript
+* JavaScript
 
 # Author
 * 👩Esther Davies
